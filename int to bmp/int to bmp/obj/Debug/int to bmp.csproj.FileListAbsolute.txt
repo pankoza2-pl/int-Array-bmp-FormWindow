@@ -1,0 +1,9 @@
+C:\Users\Kapi\source\repos\int to bmp\int to bmp\bin\Debug\int to bmp.exe
+C:\Users\Kapi\source\repos\int to bmp\int to bmp\bin\Debug\int to bmp.pdb
+C:\Users\Kapi\source\repos\int to bmp\int to bmp\obj\Debug\int to bmp.csproj.AssemblyReference.cache
+C:\Users\Kapi\source\repos\int to bmp\int to bmp\obj\Debug\int_to_bmp.Form1.resources
+C:\Users\Kapi\source\repos\int to bmp\int to bmp\obj\Debug\int_to_bmp.Properties.Resources.resources
+C:\Users\Kapi\source\repos\int to bmp\int to bmp\obj\Debug\int to bmp.csproj.GenerateResource.cache
+C:\Users\Kapi\source\repos\int to bmp\int to bmp\obj\Debug\int to bmp.csproj.CoreCompileInputs.cache
+C:\Users\Kapi\source\repos\int to bmp\int to bmp\obj\Debug\int to bmp.exe
+C:\Users\Kapi\source\repos\int to bmp\int to bmp\obj\Debug\int to bmp.pdb
